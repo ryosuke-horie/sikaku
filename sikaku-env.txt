@@ -1,0 +1,28 @@
+local
+===
+# Clark用の設定
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_ZGVmaW5pdGUtd29vZGNvY2stNDkuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_MHRXd9A6rV22dg9850IOtKMYEFnhTTtCT1jOU9TrMc
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+# PlanetScale用の設定
+PLANETSCALE_DB="mysql://e188mcmgkto046oxchp1:pscale_pw_GCDSJR8IqGEsoJSZkhKMgqcSDdTT48bJvkqCHCqNDib@aws.connect.psdb.cloud/qualification?sslaccept=strict"
+===
+
+Prodcution
+===
+# Clark用の設定
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_ZGVmaW5pdGUtd29vZGNvY2stNDkuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_MHRXd9A6rV22dg9850IOtKMYEFnhTTtCT1jOU9TrMc
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+# PlanetScale用の設定
+# PLANETSCALE_DB="mysql://wiwqadak6n8c0fq38yw0:pscale_pw_i3M5shBtwDGKqMbIRU1wbeaB7goyC3kioNcYpKPtklt@aws.connect.psdb.cloud/qualification?sslaccept=strict"
+===
+
